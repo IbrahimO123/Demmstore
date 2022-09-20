@@ -1,0 +1,10 @@
+.entry {
+    background-color: red;
+    color: black;
+}
+.items {
+    background-color: yellow;
+    padding: 3em;
+    margin-bottom: 1em;
+    border-radius: 1.5em;
+}
